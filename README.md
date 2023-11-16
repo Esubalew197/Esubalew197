@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Esubalew197&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  hey there i am Esubalew
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
@@ -25,10 +25,10 @@
 ### 👨‍🦲_technologist: About Me :
 I’m currently learning Software engineering at ALX <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
-- 👋 Hi, I’m @Esubalew197
+- 👋 Hi, I’m Esubalew
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software engineering
-- :telescope: I’m looking a job to contribute to frontend and backend for building web applications.
+- :telescope: I’m looking a project to contribute to frontend and backend for building web applications.
 - 💞️ I’m looking to collaborate on SE
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esubalew-million-5707456b)
 <!--- - 📫 How to reach https://github.com/Esubalew197 --->
