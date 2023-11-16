@@ -57,8 +57,8 @@ I’m currently learning Software engineering at ALX <img src="https://media.gip
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Esubalew197&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esubalew197)](https://github.com/anuraghazra/github-readme-stats)
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esubalew197&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esubalew197&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)--->
 
 <!---
 Esubalew197/Esubalew197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
