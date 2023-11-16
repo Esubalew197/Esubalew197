@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" height="200" width="500"/>
+  <img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" height="100" width="100"/>
   <div id="badges">
   <a href="www.linkedin.com/in/esubalew-million-5707456b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
